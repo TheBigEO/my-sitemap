@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/projects</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/market-intelligence-loreto-bay-listings-analysis/1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/our-sales-history</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/videos-of-properties</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Projects -->
+  <url><loc>https://www.loretobayrealestate.com/vista-mar-oceanview</loc></url>
+  <url><loc>https://www.loretobayrealestate.com/sunrise-villas-new-homes-in-loreto-baja-california-sur</loc></url>
+  <url><loc>https://www.loretobayrealestate.com/nopolo-hills</loc></url>
+  <url><loc>https://www.loretobayrealestate.com/nopolo-hills-condo-tower</loc></url>
+  <url><loc>https://www.loretobayrealestate.com/punta-nopolo-tower-4</loc></url>
+  <url><loc>https://www.loretobayrealestate.com/alta-baja-coastal-living</loc></url>
+
+  <!-- Example Property Page -->
+  <url><loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-416-2-bedroom-unit</loc></url>
+  <!-- (We can add ALL your individual property pages if you want them indexed one by one) -->
+
+</urlset>
