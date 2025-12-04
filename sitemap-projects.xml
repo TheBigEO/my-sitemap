@@ -1,17 +1,50 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+
+  <!-- Vista Mar -->
   <url>
-    <loc>https://www.loretobayrealestate.com/vista-mar-premium-ocean-view-real-estate-on-the-loreto-malecon</loc>
+    <loc>https://www.loretobayrealestate.com/projects/vista-mar</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/vista-mar"/>
+    <lastmod>2025-01-01</lastmod>
   </url>
+
+  <!-- Sunrise Villas -->
   <url>
-    <loc>https://www.loretobayrealestate.com/sunrise-villas-affordable-new-homes-in-loreto-baja-california-sur</loc>
+    <loc>https://www.loretobayrealestate.com/projects/sunrise-villas</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/sunrise-villas"/>
+    <lastmod>2025-01-01</lastmod>
   </url>
+
+  <!-- Nopolo Hills -->
   <url>
-    <loc>https://www.loretobayrealestate.com/nopolo-hills-gated-homes-luxury-garages-in-loreto-bcs</loc>
+    <loc>https://www.loretobayrealestate.com/projects/nopolo-hills</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/nopolo-hills"/>
+    <lastmod>2025-01-01</lastmod>
   </url>
+
+  <!-- Nopolo Hills Condo Tower -->
   <url>
-    <loc>https://www.loretobayrealestate.com/nopolo-hills-condo-tower-luxury-living-in-loreto-baja-california-sur</loc>
+    <loc>https://www.loretobayrealestate.com/projects/nopolo-hills-condo-tower</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/nopolo-hills-condo-tower"/>
+    <lastmod>2025-01-01</lastmod>
   </url>
+
+  <!-- Punta Nopolo Tower 4 -->
   <url>
-    <loc>https://www.loretobayrealestate.com/punta-nopolo-tower-4-oceanview-condos-in-loreto-baja-california-sur</loc>
+    <loc>https://www.loretobayrealestate.com/projects/punta-nopolo-tower-4</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/punta-nopolo-tower-4"/>
+    <lastmod>2025-01-01</lastmod>
   </url>
+
+  <!-- Alta Baja – Coastal Living -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/projects/alta-baja-coastal-living</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.loretobayrealestate.com/es/projects/alta-baja-coastal-living"/>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
 </urlset>
+
