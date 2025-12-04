@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- English Pages -->
   <sitemap>
-    <loc>https://sitemap.loretobayrealestate.com/sitemap-pages.xml</loc>
+    <loc>https://thebigeo.github.io/my-sitemap/sitemap-pages.xml</loc>
   </sitemap>
 
-  <!-- English Properties (includes bilingual alternates inside) -->
   <sitemap>
-    <loc>https://sitemap.loretobayrealestate.com/sitemap-properties.xml</loc>
+    <loc>https://thebigeo.github.io/my-sitemap/sitemap-properties.xml</loc>
   </sitemap>
 
-  <!-- English Projects (also multilingual inside) -->
   <sitemap>
-    <loc>https://sitemap.loretobayrealestate.com/sitemap-projects.xml</loc>
+    <loc>https://thebigeo.github.io/my-sitemap/sitemap-projects.xml</loc>
   </sitemap>
 
-  <!-- English Blog (hreflang inside also OK) -->
   <sitemap>
-    <loc>https://sitemap.loretobayrealestate.com/sitemap-blog.xml</loc>
+    <loc>https://thebigeo.github.io/my-sitemap/sitemap-blog.xml</loc>
   </sitemap>
 
-  <!-- Spanish Pages (if you created a separate sitemap-es.xml) -->
   <sitemap>
-    <loc>https://sitemap.loretobayrealestate.com/sitemap-es.xml</loc>
+    <loc>https://thebigeo.github.io/my-sitemap/sitemap-es.xml</loc>
   </sitemap>
 
 </sitemapindex>
+
