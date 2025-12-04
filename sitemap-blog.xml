@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
 
-<url><loc>https://www.loretobayrealestate.com/loreto-real-estate-blog-market-tips-expat-advice-more</loc></url>
+  <!-- Blog Index -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog</loc>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
+  <!-- Sample Blog Posts — Add Yours Below -->
+
+  <!-- Example Post 1 -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog/living-in-loreto-baja</loc>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
+  <!-- Example Post 2 -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog/retiring-in-mexico-what-to-know</loc>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
+  <!-- Example Post 3 -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog/how-to-buy-property-in-baja</loc>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
+  <!-- Add additional posts as needed... -->
 
 </urlset>
+
