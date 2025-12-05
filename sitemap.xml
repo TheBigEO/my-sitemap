@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/sitemap-pages.xml</loc>
   </sitemap>
-
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/sitemap-blog.xml</loc>
   </sitemap>
-
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/sitemap-properties.xml</loc>
   </sitemap>
-
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/sitemap-projects.xml</loc>
   </sitemap>
-
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/sitemap-es.xml</loc>
   </sitemap>
-
 </sitemapindex>
 
