@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+
+  <!-- Spanish Blog Index -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/blog</loc>
+    <lastmod>2026-02-07</lastmod>
+  </url>
+
+  <!-- Spanish Blog Post 1 -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/es-loreto-el-destino-ideal-para-jubilarse-o-invertir</loc>
+    <lastmod>2026-02-07</lastmod>
+  </url>
+
+  <!-- Spanish Blog Post 2 -->
+  <!-- Add when published -->
+  <!--
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/URL-SLUG-AQUI</loc>
+    <lastmod>2026-02-07</lastmod>
+  </url>
+  -->
+
+</urlset>
